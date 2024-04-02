@@ -1,6 +1,6 @@
 # Raytracer0
 Raytracer0 is a TypeScript raytracer I built to learn the fundamentals of raytracing.
-This repository is a copy of [Raytracer0 on ShadowStar337](https://github.com/ShadowStar337/Raytracer0/tree/featureAddMaterials)
+This repository is a copy of [Raytracer0 on ShadowStar337](https://github.com/ShadowStar337/Raytracer0/tree/featureAddMaterials) (I am still the author of Raytracer0)
 
 ## Credits
 - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
